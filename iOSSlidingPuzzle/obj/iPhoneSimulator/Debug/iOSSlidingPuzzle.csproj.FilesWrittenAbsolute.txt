@@ -1,0 +1,13 @@
+/Users/daimonknight/cSharp/iOSpuzzle/iOSSlidingPuzzle/iOSSlidingPuzzle/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/daimonknight/cSharp/iOSpuzzle/iOSSlidingPuzzle/iOSSlidingPuzzle/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/daimonknight/cSharp/iOSpuzzle/iOSSlidingPuzzle/iOSSlidingPuzzle/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
+/Users/daimonknight/cSharp/iOSpuzzle/iOSSlidingPuzzle/iOSSlidingPuzzle/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/daimonknight/cSharp/iOSpuzzle/iOSSlidingPuzzle/iOSSlidingPuzzle/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
+/Users/daimonknight/cSharp/iOSpuzzle/iOSSlidingPuzzle/iOSSlidingPuzzle/bin/iPhoneSimulator/Debug/iOSSlidingPuzzle.exe.mdb
+/Users/daimonknight/cSharp/iOSpuzzle/iOSSlidingPuzzle/iOSSlidingPuzzle/bin/iPhoneSimulator/Debug/iOSSlidingPuzzle.exe
+/Users/daimonknight/cSharp/iOSpuzzle/iOSSlidingPuzzle/iOSSlidingPuzzle/obj/iPhoneSimulator/Debug/iOSSlidingPuzzle.exe
+/Users/daimonknight/cSharp/iOSpuzzle/iOSSlidingPuzzle/iOSSlidingPuzzle/obj/iPhoneSimulator/Debug/iOSSlidingPuzzle.exe.mdb
+/Users/daimonknight/cSharp/iOSpuzzle/iOSSlidingPuzzle/iOSSlidingPuzzle/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/daimonknight/cSharp/iOSpuzzle/iOSSlidingPuzzle/iOSSlidingPuzzle/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/actool/_PartialAppManifest.items
+/Users/daimonknight/cSharp/iOSpuzzle/iOSSlidingPuzzle/iOSSlidingPuzzle/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/daimonknight/cSharp/iOSpuzzle/iOSSlidingPuzzle/iOSSlidingPuzzle/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/optimized/

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{75462B01-7209-4F49-A047-8EED896FC0AD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOSSlidingPuzzle/ViewController.cs">
+    <Files>
+      <File FileName="iOSSlidingPuzzle/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="iOSSlidingPuzzle/Main.storyboard" />
+      <File FileName="iOSSlidingPuzzle/ViewController.cs" Line="178" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.iOSSlidingPuzzle PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6F581963-6711-4B19-BC9E-15749FD107DC" />
+</Properties>
